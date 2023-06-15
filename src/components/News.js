@@ -84,4 +84,4 @@ News.propTypes = {
     category: PropTypes.string,
 }
 
-export default News
+export default News;
